@@ -1,11 +1,5 @@
 # Bank Practice
 
-## [Database Skills & Code](DATABASE.md)
-
-**Explore the SQL:** direct links to account creation, lookups, balance updates, and deletion.
-
-**Python, MySQL, and Tkinter practice project demonstrating SQL CRUD operations and account-balance updates.**
-
 I built this banking application to practice connecting a Python interface to a relational database. The database functions create account records, retrieve account details, update balances, and delete matching records. The code links below make those SQL operations easy to review.
 
 ## Database code at a glance
